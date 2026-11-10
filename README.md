@@ -2,7 +2,7 @@
  
 A procedural dungeon crawler built with Python and Pygame. Play as a mage, explore a dungeon that only reveals itself as you move, and blast your way through waves of enemies with particle-based magic.
  
-[Fogbound gameplay](docs/gameplay.png)
+[Fogbound gameplay](docs/gameplay.jpg)
  
 **Authors:** Kaitlyn Walker
 **Originally developed:** November 2025
